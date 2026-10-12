@@ -196,14 +196,6 @@ const oubey = {
 
 ---
 
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Legambey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
 ## 🎯 En dehors du code
 
 🔧 Réparation et rénovation de matériel électronique · 🛴 Remise en état de trottinettes et vélos électriques · 🚗 Mécanique auto · 🥊 Sports de combat · 🏋️ Musculation · 🚵 Vélo & VTT · 🎮 Rétro gaming · 🔭 Astronomie · 📰 Veille techno
@@ -228,4 +220,3 @@ const oubey = {
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer"/>
-
